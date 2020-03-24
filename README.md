@@ -60,3 +60,7 @@ I know. But it's free! Go on YouTube and find some tutorials.
 > Now that everyone is streaming their stupid DJ sets, which platform is the best?
 
 Right now, I think Twitch is the easiest to set up and has the best stability. Unfortunately, people are insanely lazy and don't want to click on anything that takes them off of Facebook or Instagram. I guess you just have to start all over again on Twitch and cross-post alerts, which sucks but the world is ending anyway so who cares 🗽
+
+## Further Reading
+
+Excellent article from Cycling 74 on live streaming a Max patch, but relevant instructions for MacOS + OBS configuration: [https://cycling74.com/articles/tips-for-streaming-your-max-patch](https://cycling74.com/articles/tips-for-streaming-your-max-patch)
